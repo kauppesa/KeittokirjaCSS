@@ -1,0 +1,46 @@
+
+a
+{
+  background-color: #ebeeb0;
+  font-family: sans-serif;
+  font-size: 12pt;
+  color: #555;
+}
+
+.linkit {
+  position: absolute; top: 155px; left: 50px; width: 200px; height: 538px;
+  border-radius: 10px;
+  background-color: #ebeeb0;
+  border: 5px solid #383a15;
+  font-family: sans-serif;
+  font-size: 12pt;
+  text-align: left;
+  color: #555;
+  padding: 12px;
+  }
+
+.data {
+    position: absolute; top: 155px; left:300px; width: 800px; height: 512px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #ebeeb0;
+    border: 5px solid #383a15;
+    font-family: sans-serif;
+    font-size: 12pt;
+    color: #555;
+    overflow: auto;
+  }
+
+.ylapalkki {
+    position: absolute; top: 25px; left: 50px; width: 1100px; height: 100px;
+    background-image: url("grilli.jpg");
+    border-radius: 10px;
+    background-color: #ebeeb0;
+    border: 5px solid #383a15;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+body { 
+    background-color: #797d29;}
+    }
