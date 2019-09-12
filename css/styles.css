@@ -41,6 +41,18 @@ a
     text-align: center;
     }
 
+  .etusivu {
+    position: absolute; top: 75px; left:50px; width: 800px; height: 512px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #ebeeb0;
+    border: 5px solid #383a15;
+    font-family: sans-serif;
+    font-size: 12pt;
+    color: #555;
+    overflow: auto;
+    }
+
 body { 
     background-color: #797d29;}
     }
